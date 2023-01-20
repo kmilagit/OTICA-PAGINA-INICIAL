@@ -1,0 +1,4 @@
+#674747 Marrom
+#F96666 rosa claro
+#829460 verde 
+#EEEEEE branco
